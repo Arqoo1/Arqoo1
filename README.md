@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cartoonbrew.com/wp-content/uploads/2023/05/pavel_1.gif)]
+<img src="https://www.cartoonbrew.com/wp-content/uploads/2023/05/pavel_1.gif" alt="MasterHead" style="width:100%; height:auto;">
 
 
 <h1 align="center">Hi there 👋, I'm Giorgi Arkania</h1>
