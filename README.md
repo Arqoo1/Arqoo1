@@ -75,10 +75,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Arqoo1&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/Arqoo1/Arqoo1/raw/output/github-contribution-grid-snake.svg" />
-</div>
-
 
 ---
 
