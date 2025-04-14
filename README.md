@@ -17,7 +17,7 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/giorgi arkania" target="blank">
+  <a href="[https://linkedin.com/in/giorgi arkania](https://www.linkedin.com/in/giorgi-arkania-124a0a2b2/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgi arkania" height="30" width="40" />
   </a>
   <a href="https://codesandbox.com/arqoo1" target="blank">
