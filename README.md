@@ -1,4 +1,5 @@
-<img src="https://www.cartoonbrew.com/wp-content/uploads/2023/05/pavel_1.gif" alt="MasterHead" style="width:100%; height:auto;">
+<img src="https://www.cartoonbrew.com/wp-content/uploads/2023/05/pavel_1.gif" alt="MasterHead" width="100%" />
+
 
 
 <h1 align="center">Hi there 👋, I'm Giorgi Arkania</h1>
