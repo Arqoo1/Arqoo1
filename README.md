@@ -7,10 +7,9 @@
 
 - 💻 Full-stack Web Developer with a strong focus on **React.js**, **Node.js**, and **MongoDB**
 - 🌐 I enjoy transforming ideas into real-world, interactive digital experiences
-- 🤖 Working on a recipe app using AI (Hugging Face + Node.js)
-- 🎨 Learning advanced animation with **GSAP** and 3D with **Blender**
-- ⚽ Student rep who plays football and writes clean code
-- 💡 Believer in performance-first, minimalist, and scalable development
+- 🤖 Working on a **recipe app** using AI (Hugging Face) and on **Georgian Mythology project**(MERN)
+- 🎨 Trying to Learning animation with **GSAP** and 3D with **Blender**
+- 💡 Believer in performance-first, maximalist, and scalable development
 
 ---
 
