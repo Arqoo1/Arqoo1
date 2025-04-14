@@ -1,3 +1,6 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*WqMpsn9c8JsbbIxIRr50ug.gif)]
+
+
 <h1 align="center">Hi there 👋, I'm Giorgi Arkania</h1>
 <h3 align="center">Web Developer focused on building fast, responsive, and user-friendly web apps</h3>
 
