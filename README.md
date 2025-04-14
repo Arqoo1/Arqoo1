@@ -67,12 +67,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Arqoo1&show_icons=true&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arqoo1&layout=compact&theme=tokyonight" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Arqoo1&theme=tokyonight" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arqoo1&layout=compact&theme=tokyonight" />
 </div>
 
 
