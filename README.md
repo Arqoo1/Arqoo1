@@ -15,7 +15,7 @@
 - 💡 Believer in performance-first, maximalist, and scalable development
 
 ---
-a
+
 ## 🔗 Connect With Me
 
 <p align="left">
